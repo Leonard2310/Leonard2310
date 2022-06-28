@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on improve my engineering knowledge 
 - 🌱 I’m currently learning and improving my competence in different programming languages (C, C++, Java, Python, Flutter, ...) 
-- 📫 How to reach me: leonardo.catello23@gmail.com 
+- 📫 How to reach me: leonardo.catello@hotmail.com
 
 💻  For further information: https://www.linkedin.com/in/leonardocatello/
 
