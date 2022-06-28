@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning and improving my competence in different programming languages (C, C++, Java, Python, Flutter, ...) 
 - 📫 How to reach me: leonardo.catello23@gmail.com 
 
-💻 For further information: https://www.linkedin.com/in/leonardocatello/
+💻  For further information: https://www.linkedin.com/in/leonardocatello/
 
 
 
