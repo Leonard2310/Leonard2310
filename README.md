@@ -1,7 +1,7 @@
-### 👋 Hi there, I’m @Leonard2310, Computer Engineering Student at Federico II of Naples
+### 👋 Hi there, I’m @Leonard2310, Data Engineering and Artificial Intelligence Student at Federico II of Naples
 
-- 🔭 I’m currently working on improving my engineering knowledge (AI, Data Engineering and Networking)
-- 🌱 I’m currently learning and improving my competence in different languages (C, C++, Java, Python, SQL, Flutter, ...) 
+- 🔭 I’m currently working on improving my engineering knowledge in AI and Data Engineering thanks to my path in the Master's Degree. 
+- 🌱 I’m currently learning and improving my competence in different languages (C/C++, Java, Python, SQL, MATLAB, VHDL, Verilog, ...) 
 - 📫 How to reach me: leonardo.catello@hotmail.com
 
 💻  For further information: https://www.linkedin.com/in/leonardocatello/
